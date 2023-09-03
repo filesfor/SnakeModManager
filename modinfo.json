@@ -336,10 +336,13 @@
   {
     "name": "Any Code Of Conduct",
     "author": "CupidGT",
-    "version": "1.0.1",
-    "git_path": "filesfor/AnyCodeOfConduct",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/filesfor/AnyCodeOfConduct/releases/download/v1.0.1/AnyCodeOfConduct.zip"
+    "version": "Beta1.07",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "filesfor/YizziCamModV2",
+    "group": "Camera Mods",
+    "download_url": "https://github.com/filesfor/YizziCamModV2/releases/download/Betav1.0.7/YizziCamModV2.zip"
   },
   {
     "name": "Any Code Of Conduct",
