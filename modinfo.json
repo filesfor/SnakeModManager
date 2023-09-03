@@ -334,8 +334,8 @@
     "download_url": "https://github.com/filesfor/CameraBoard/releases/download/v1.0.0/CameraBoard.zip"
   },
   {
-    "name": "Any Code Of Conduct",
-    "author": "CupidGT",
+    "name": "YizziCamModV2",
+    "author": "Yizzi",
     "version": "Beta1.07",
     "dependencies": [
       "Utilla"
