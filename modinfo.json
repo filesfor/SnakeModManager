@@ -328,4 +328,15 @@
     "group": "Legal Mod Menus",
     "download_url": "https://github.com/filesfor/Bark/releases/download/v1.1.3/Bark.zip"
   },
+  {
+    "name": "Bark - No Computer Interface",
+    "author": "KyleTheScientist",
+    "version": "1.3.3B",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "filesfor/Bark",
+    "group": "Legal Mod Menus",
+    "download_url": "https://github.com/filesfor/Bark/releases/download/v1.1.3B/Bark.zip"
+  },
 ]
