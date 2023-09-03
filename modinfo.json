@@ -355,4 +355,12 @@
     "group": "Gameplay",
     "download_url": "https://github.com/filesfor/Frozone/releases/download/v1.0/Frozone.zip"
   },
+  {
+    "name": "Any Code Of Conduct",
+    "author": "CupidGT",
+    "version": "1.0.1",
+    "git_path": "filesfor/AnyCodeOfConduct",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/filesfor/AnyCodeOfConduct/releases/download/v1.0.1/AnyCodeOfConduct.zip"
+  },
 ]
