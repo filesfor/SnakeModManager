@@ -339,4 +339,12 @@
     "group": "Legal Mod Menus",
     "download_url": "https://github.com/filesfor/Bark/releases/download/v1.1.3B/Bark.zip"
   },
+  {
+    "name": "Holdable Pad",
+    "author": "Dev9998",
+    "version": "1.4.2",
+    "git_path": "filesfor/HoldablePad",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/filesfor/HoldablePad/releases/download/v1.4.2/HoldablePad.zip"
+  },
 ]
