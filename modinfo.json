@@ -320,8 +320,8 @@
     "name": "Bark - Computer Interface",
     "author": "KyleTheScientist",
     "version": "1.3.3B",
-    "git_path": "filesfor/SnakeModManager",
+    "git_path": "filesfor/Bark",
     "group": "Legal Mod Menus",
-    "download_url": "https://github.com/filesfor/SnakeModManager/blob/main/Bark.zip"
+    "download_url": "https://github.com/filesfor/Bark/releases/download/v1.1.3/Bark.zip"
   },
 ]
