@@ -303,14 +303,6 @@
     "download_url": "https://github.com/filesfor/GorillaFaces/releases/download/v1.0.3/GorillaFaces.zip"
   },
   {
-    "name": "ShibaGT Mod Menu",
-    "author": "ShibaGT",
-    "version": "v11.0",
-    "git_path": "filesfor/ShibaGT",
-    "group": "ShibaGT",
-    "download_url": "https://github.com/filesfor/ShibaGT/releases/download/latest/Mod.zip"
-  },
-  {
     "name": "Any Code Of Conduct",
     "author": "CupidGT",
     "version": "1.0.1",
