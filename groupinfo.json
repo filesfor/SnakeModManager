@@ -18,5 +18,17 @@
   {
     "name" : "Libraries",
     "rank" : 4
-  }
+  },
+  {
+    "name" : "Camera Mods",
+    "rank" : 5
+  },
+  {
+    "name" : "Mod Menus",
+    "rank" : 6
+  },
+  {
+    "name" : "Gamemodes",
+    "rank" : 7
+  },
 ]
