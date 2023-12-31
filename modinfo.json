@@ -164,5 +164,13 @@
     "git_path": "SteveTheAnimator/Legs",
     "group": "Gameplay",
     "download_url": "https://github.com/SteveTheAnimator/Legs/releases/download/legv6/LegMod.dll"
+  },
+  {
+    "name": "Computer ++",
+    "author": "KyleTheScientist",
+    "version": "1.0.1",
+    "git_path": "KyleTheScientist/ComputerPlusPlus",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/KyleTheScientist/ComputerPlusPlus/releases/download/v1.0.1/ComputerPlusPlus-v1.0.1.dll"
   }
 ]
