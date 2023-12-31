@@ -153,5 +153,16 @@
     "git_path": "legoandmars/Utilla",
     "group": "Core",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.11/Utilla.zip"
+  },
+  {
+    "name": "Leg Mod",
+    "author": "SteveTheAnimator",
+    "version": "1.06",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "SteveTheAnimator/Legs",
+    "group": "Gameplay",
+    "download_url": "https://github.com/SteveTheAnimator/Legs/releases/download/legv6/LegMod.dll"
   }
 ]
